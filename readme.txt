@@ -1,4 +1,3 @@
-Test1
 ## Настройка Git
 ### Добавление имени
 git config --global user.name "Nekit"
